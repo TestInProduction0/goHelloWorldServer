@@ -12,4 +12,4 @@ ADD go-sample-app /bin/
 ENTRYPOINT ["/bin/go-sample-app"]
 
 
-#test comment commit to build
+#test comment commit to build 2
