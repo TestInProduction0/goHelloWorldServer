@@ -13,4 +13,4 @@ ENTRYPOINT ["/bin/go-sample-app"]
 
 
 #test comment commit to build 2
-#test PR with skip CI 2
+#test PR with skip CI 3
